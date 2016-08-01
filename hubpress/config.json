@@ -4,7 +4,11 @@
     "repositoryName": "laydrop.github.io",
     "branch": "master"
   },
+  "site": {
+    "cover": "/images/xHain_logo_small.png"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }

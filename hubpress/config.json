@@ -5,7 +5,8 @@
     "branch": "master"
   },
   "site": {
-    "cover": "images/xHain_logo_small.png"
+    "logo": "images/xHain_logo_small.png",
+    "cover": ""
   },
   "socialnetwork": {},
   "theme": {

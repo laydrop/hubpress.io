@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://laydrop.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 01 Aug 2016 21:58:03 GMT</lastBuildDate><atom:link href="https://laydrop.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Lizenz zum Löten]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://laydrop.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 01 Aug 2016 21:59:13 GMT</lastBuildDate><atom:link href="https://laydrop.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Netzwerk-Grundlagen - Wie verbindet sich mein Rechner mit dem Internet?]]></title><description><![CDATA[<div class="paragraph">
+<p>Sonntag, 26. Juni, 17 Uhr</p>
+</div>
+<div class="paragraph">
+<p>Wir wissen alle, wie das läuft - Du steckst ein Kabel ein oder gibt ein WLAN-Passwort ein, und dann verändert sich das Icon, das Licht wird grün und alles funktioniert. Oder vielleicht auch nicht und du versuchst den Fehler zu finden.
+Aber wie funktionieren Netzwerke hinter den Kulissen? Was ist eine IP-Adresse? Wie erreicht dein Rechner die ganze Welt? Wie kannst du nachschauen, was da schief ging?
+In diesem Workshop gebe ich, Theresa, (auf Englisch) einen Überblick über die Konzepte und ein paar Programme, die dir dabei helfen können, dein Netzwerk von deinem Rechner aus zu verstehen. Dann gibt es die Möglichkeit, die Programme auf deinem eigenen Rechner auszuprobieren. Du musst dafür nicht programmieren können. Wenn etwas nicht funktioniert, helfen wir dir. ☺</p>
+</div>
+<div class="paragraph">
+<p>Anfänger*innen willkommen! Wenn du noch nichts über Netzwerke weißt, ist dieser Workshop für dich. Wenn du ein bisschen was weißt, auch. Wenn du dich schon als Expert*in verstehst, ist er vielleicht zu langweilig.</p>
+</div>
+<div class="paragraph">
+<p>Bitte bring deinen Rechner mit. Betriebssystem egal, aber ich habe die meiste Erfahrung mit Linux. Wahrscheinlich hast du die meisten Programme, die du brauchst, schon installiert, aber wenn du vor dem Workshop ein bisschen Zeit hast, kannst du noch Wireshark installieren (<a href="https://www.wireshark.org/#download" class="bare">https://www.wireshark.org/#download</a>). Falls du dafür vor dem Workshop keine Zeit findest, auch nicht schlimm, wir können das auch dort machen!</p>
+</div>
+<div class="paragraph">
+<p>Bitte beachte unseren &lt;a href="http://pastebin.com/ift4DXnq"&gt;Code of Conduct&lt;/a&gt; (momentan nur auf Englisch verfügbar).
+Wir werden Freiwillige haben, die du bei Problemen ansprechen kannst.</p>
+</div>
+<div class="paragraph">
+<p>Der Workshop wird auf Englisch stattfinden, aber du kannst Fragen auch auf Deutsch stellen und ich kann Erklärungen auch auf Deutsch wiederholen.
+Der xHain ist rauchfrei (Leute können draußen rauchen). Es gibt ein paar Getränke, die du kaufen kannst, um den Space zu unterstützen (im wesentlichen Club Mate und Bier für 2€ pro Flasche), oder du bringst deine eigenen Getränke mit. Ich mache auch etwas Tee, kostenlos. Du kannst außerdem etwas eigenes zu essen mitbringen, für dich selbst oder du teilst es mit anderen. Der Workshop ist kostenlos, aber wenn du kannst, wäre es cool, wenn du den Xhain mit einer Spende von 1 oder 2 € unterstützen.</p>
+</div>
+<div class="paragraph">
+<p>Infos zur Barrierefreiheit: Es gibt am Eingang eine kleine Stufe, die per Rollstuhl aber zu überwinden ist. Leider ist das Bad mit WC nicht rollstuhlgeeignet. Es gibt etwa 15 Stühle, und wenn viele Leute teilnehmen, kann es sein, dass einige auf Kisten sitzen müssen. Bitte nehmt darauf Rücksicht, dass einige Leute nicht für lange Zeit so sitzen können, oder auch nicht für kurze Zeit. Wenn das auf dich zutrifft, dann schreib mit bitte vorher eine E-mail (<a href="mailto:theresa@someserver.de">theresa@someserver.de</a>), damit ich dir einen Stuhl freihalten kann.</p>
+</div>
+<div class="paragraph">
+<p>Du kannst deine Kinder</p>
+</div>]]></description><link>https://laydrop.github.io/2016/06/24/Netzwerk-Grundlagen-Wie-verbindet-sich-mein-Rechner-mit-dem-Internet.html</link><guid isPermaLink="true">https://laydrop.github.io/2016/06/24/Netzwerk-Grundlagen-Wie-verbindet-sich-mein-Rechner-mit-dem-Internet.html</guid><category><![CDATA[news]]></category><dc:creator><![CDATA[Martin Bild]]></dc:creator><pubDate>Fri, 24 Jun 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Lizenz zum Löten]]></title><description><![CDATA[<div class="paragraph">
 <p>Abgerissene Stecker, kaputte Lichterketten, zerfallende Arduino-Projekte, Geräte mit Batteriefach statt Netzteil… Du
 solltest mal endlich löten lernen? Hier ist die Gelegenheit! Bring Deine defekten Geräte, die elektronischen Kuscheltiere, das batteriebetriebene Spielzeug, Deine Breadboard-Projekte, (gern auch defekte) Bauteile und Platinen mit, wir lernen löten!</p>
 </div>

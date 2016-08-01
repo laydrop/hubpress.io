@@ -11,5 +11,8 @@
   "socialnetwork": {},
   "theme": {
     "name": "casper"
-  }
+  },
+   "navigation": [
+    {"label": "bla", "url": "/zzz/dsds"},
+    ],
 }

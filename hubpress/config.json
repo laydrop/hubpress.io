@@ -11,7 +11,7 @@
   "theme": {
     "name": "casper"
   },
-  navigation: [
+  "navigation": [
     {"label": "bla", "url": "/zzz/dsds"},
     ],
 }

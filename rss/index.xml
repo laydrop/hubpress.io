@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://laydrop.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 01 Aug 2016 21:56:22 GMT</lastBuildDate><atom:link href="https://laydrop.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Hello world!]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://laydrop.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 01 Aug 2016 21:57:21 GMT</lastBuildDate><atom:link href="https://laydrop.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Civic hacking]]></title><description><![CDATA[<div class="paragraph">
+<p>Es geht darum, den ganzen Parlamentsbetrieb ordentlich aufzubereiten. Konkret geht es um 6000 Vorgänge aus der BVV Xhain (Anträge, Resolutionen, Anfragen etc). Diese liegen im Ratsinformationssystem ALLRIS vor [1]. Das ALLRIS ist aber nicht besonders toll. Ziel ist, die ganzen Sachen aufzubereiten, zu kategorisieren ("Bauausschuss", "SPD", "abgelehnt" etc), zu geotaggen und dann auf einer Karte erfassbar zu machen.</p>
+</div>
+<div class="paragraph">
+<p>Einen Dummy gibt es hier [2]</p>
+</div>
+<div class="paragraph">
+<p>Die 6000 Datensätze liegen in dreckigem XHTML vor und müssen in ein vernünftiges Format transformiert werden (XML oder JSON, optional RDF falls jemand möchte).</p>
+</div>
+<div class="paragraph">
+<p>Die Aufbereitung läuft derzeit durch Stringmatching. Machine Learning ist auch denkbar, aber wahrscheinlich nicht notwendig, da das relevante Vokabular ("Bauausschuss", "Sportausschuss", "Gesundheitsausschuss", &#8230;&#8203;) begrenzt und bekannt ist.</p>
+</div>
+<div class="paragraph">
+<p>Bei der Aufbereitung ist Python als Sprache ziemlich gesetzt. Bei Backend und Frontend ist noch alles möglich. Derzeit läuft alles über AJAX und statisches JSON, das auf github.io liegt.</p>
+</div>
+<div class="paragraph">
+<p>Alternative Projekte zu anderen Bezirken, Kommunen etc, sind gerne gesehen, ebenso alles, was mit Open Government Data zu tun hat.</p>
+</div>
+<div class="paragraph">
+<p>Das dies ein Projekt ist, das nicht an einem Abend fertig wird, findet es jetzt an jedem 2.Dienstag im Monat ab 20:30 Uhr statt.</p>
+</div>
+<div class="paragraph">
+<p>[1] <a href="http://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo040.asp" class="bare">http://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo040.asp</a></p>
+</div>
+<div class="paragraph">
+<p>[2] <a href="http://glottotopia.github.io/bvvscout/" class="bare">http://glottotopia.github.io/bvvscout/</a></p>
+</div>]]></description><link>https://laydrop.github.io/2016/06/13/Civic-hacking.html</link><guid isPermaLink="true">https://laydrop.github.io/2016/06/13/Civic-hacking.html</guid><category><![CDATA[news]]></category><dc:creator><![CDATA[Martin Bild]]></dc:creator><pubDate>Mon, 13 Jun 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Hello world!]]></title><description><![CDATA[<div class="paragraph">
 <p>Seit der Eröffnung am 13.05. sind schon ein paar Wochen vergangen und seitdem ist schon einiges passiert. In der Küche wurde eine Zwischendecke eingezogen, die ab sofort mehr Stauraum bietet. Mehr Platz gibt es auch zum Arbeiten. In echter Maker-Manier gibt es jetzt Tische, die man entweder zu einer großen Tafel zusammenstellen, als Einzeltische nutzen oder auch ganz wegräumen kann. Gerne dürft ihr noch helfen und euch mit eigenen Ideen und Projekten einbringen! Der Beamer und die Leinwand warten auch immer noch darauf, angebracht zu werden.</p>
 </div>
 <div class="paragraph">

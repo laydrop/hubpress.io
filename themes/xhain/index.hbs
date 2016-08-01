@@ -1,21 +1,13 @@
 {{!< default}}
-
-{{> cover this}}
-
-<section class="wrapper" tabindex="0">
-  <div class="wrapper-container">
-    {{> custom/featured this}}
-
-    <section class="post-list">
-      {{#foreach posts}}
-        {{> post/list this}}
-      {{/foreach}}
+<header id="header">
+    <div class="header-background">
+    <section class="blog-content animated fadeIn">
+        <a id="site-url" class="blog-title" href="{{@blog.url}}">{{@blog.title}}</a>
+        <span class="blog-description">{{@blog.description}}</span>
+        {{> links}}
     </section>
-
-    {{#if pagination}}
-      {{pagination}}
-    {{/if}}
-
-    {{> footer this}}
-  </div>
-</section>
+    </div>
+</header>
+<main id="main" class="archive">
+    {{>loop}}
+</main>

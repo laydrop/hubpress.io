@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://laydrop.github.io</link><image><url>https://laydrop.github.io/images/xHain_logo_small.png</url><title>Untitled RSS Feed</title><link>https://laydrop.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 01 Aug 2016 22:04:06 GMT</lastBuildDate><atom:link href="https://laydrop.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Es sprießt und gedeiht der Hain!]]></title><description><![CDATA[<div class="paragraph">
+<p>Wie die Zeit verfliegt - schon ist es August. Und auch wenn es eine Weile keinen neuen Blogpost gab, im xHain war alles andere als Stillstand.</p>
+</div>
+<div class="paragraph">
+<p>Es gibt nun eine Gefahrenstelle weniger, denn die Stromversorgung für die Tische kommt nun von der Decke - man fliegt nicht mehr über die am Boden gespannten Verlängerungsstrippen. Jetzt muss die Kabeltrommel, die da an der Decke hängt, nur noch aufgehünscht werden ;-)
+Und auch der Beamer kann nun zu seiner vollen Entfaltung kommen, denn die Leinwand hängt.</p>
+</div>
+<div class="paragraph">
+<p>Aber wir haben nicht nur gebastelt und gewerkelt: Im Juli gab es das erste Treffen für Menschen die &lt;a href="https://de.wikipedia.org/wiki/Go_(Programmiersprache)"&gt;Go/Golang&lt;/a&gt; lernen wollen. Dies ist eines der vielen Lernevent der &lt;a href="http://www.opentechschool.org/"&gt;OpenTechSchool&lt;/a&gt;. Es gibt keine feste Agenda, stattdessen wird gemeinsam an Tutorials und Projekten gearbeitet und bei Problemen wird sich gegenseitig geholfen.
+Ab September findet dieses Treffen dann jeden 1. und 3. Dienstag im Monat ab 20:00 Uhr statt.</p>
+</div>
+<div class="paragraph">
+<p>Ganz besonders freuen wir uns, dass sich die Menschen vom &lt;a href="https://haeqs.xyz/"&gt;HAEQS&lt;/a&gt;, dem queer feminist hackspace berlin, entschieden haben den xHain montags als Treffpunkt zu nutzen - zumindest bis sie einen eigenen Space eröffnet haben.</p>
+</div>]]></description><link>https://laydrop.github.io/2016/08/01/Es-spriesst-und-gedeiht-der-Hain.html</link><guid isPermaLink="true">https://laydrop.github.io/2016/08/01/Es-spriesst-und-gedeiht-der-Hain.html</guid><category><![CDATA[news]]></category><dc:creator><![CDATA[Martin Bild]]></dc:creator><pubDate>Mon, 01 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Netzwerk-Grundlagen - Wie verbindet sich mein Rechner mit dem Internet?]]></title><description><![CDATA[<div class="paragraph">
+<p>Sonntag, 26. Juni, 17 Uhr</p>
+</div>
+<div class="paragraph">
+<p>Wir wissen alle, wie das läuft - Du steckst ein Kabel ein oder gibt ein WLAN-Passwort ein, und dann verändert sich das Icon, das Licht wird grün und alles funktioniert. Oder vielleicht auch nicht und du versuchst den Fehler zu finden.
+Aber wie funktionieren Netzwerke hinter den Kulissen? Was ist eine IP-Adresse? Wie erreicht dein Rechner die ganze Welt? Wie kannst du nachschauen, was da schief ging?
+In diesem Workshop gebe ich, Theresa, (auf Englisch) einen Überblick über die Konzepte und ein paar Programme, die dir dabei helfen können, dein Netzwerk von deinem Rechner aus zu verstehen. Dann gibt es die Möglichkeit, die Programme auf deinem eigenen Rechner auszuprobieren. Du musst dafür nicht programmieren können. Wenn etwas nicht funktioniert, helfen wir dir. ☺</p>
+</div>
+<div class="paragraph">
+<p>Anfänger*innen willkommen! Wenn du noch nichts über Netzwerke weißt, ist dieser Workshop für dich. Wenn du ein bisschen was weißt, auch. Wenn du dich schon als Expert*in verstehst, ist er vielleicht zu langweilig.</p>
+</div>
+<div class="paragraph">
+<p>Bitte bring deinen Rechner mit. Betriebssystem egal, aber ich habe die meiste Erfahrung mit Linux. Wahrscheinlich hast du die meisten Programme, die du brauchst, schon installiert, aber wenn du vor dem Workshop ein bisschen Zeit hast, kannst du noch Wireshark installieren (<a href="https://www.wireshark.org/#download" class="bare">https://www.wireshark.org/#download</a>). Falls du dafür vor dem Workshop keine Zeit findest, auch nicht schlimm, wir können das auch dort machen!</p>
+</div>
+<div class="paragraph">
+<p>Bitte beachte unseren &lt;a href="http://pastebin.com/ift4DXnq"&gt;Code of Conduct&lt;/a&gt; (momentan nur auf Englisch verfügbar).
+Wir werden Freiwillige haben, die du bei Problemen ansprechen kannst.</p>
+</div>
+<div class="paragraph">
+<p>Der Workshop wird auf Englisch stattfinden, aber du kannst Fragen auch auf Deutsch stellen und ich kann Erklärungen auch auf Deutsch wiederholen.
+Der xHain ist rauchfrei (Leute können draußen rauchen). Es gibt ein paar Getränke, die du kaufen kannst, um den Space zu unterstützen (im wesentlichen Club Mate und Bier für 2€ pro Flasche), oder du bringst deine eigenen Getränke mit. Ich mache auch etwas Tee, kostenlos. Du kannst außerdem etwas eigenes zu essen mitbringen, für dich selbst oder du teilst es mit anderen. Der Workshop ist kostenlos, aber wenn du kannst, wäre es cool, wenn du den Xhain mit einer Spende von 1 oder 2 € unterstützen.</p>
+</div>
+<div class="paragraph">
+<p>Infos zur Barrierefreiheit: Es gibt am Eingang eine kleine Stufe, die per Rollstuhl aber zu überwinden ist. Leider ist das Bad mit WC nicht rollstuhlgeeignet. Es gibt etwa 15 Stühle, und wenn viele Leute teilnehmen, kann es sein, dass einige auf Kisten sitzen müssen. Bitte nehmt darauf Rücksicht, dass einige Leute nicht für lange Zeit so sitzen können, oder auch nicht für kurze Zeit. Wenn das auf dich zutrifft, dann schreib mit bitte vorher eine E-mail (<a href="mailto:theresa@someserver.de">theresa@someserver.de</a>), damit ich dir einen Stuhl freihalten kann.</p>
+</div>
+<div class="paragraph">
+<p>Du kannst deine Kinder</p>
+</div>]]></description><link>https://laydrop.github.io/2016/06/24/Netzwerk-Grundlagen-Wie-verbindet-sich-mein-Rechner-mit-dem-Internet.html</link><guid isPermaLink="true">https://laydrop.github.io/2016/06/24/Netzwerk-Grundlagen-Wie-verbindet-sich-mein-Rechner-mit-dem-Internet.html</guid><category><![CDATA[news]]></category><dc:creator><![CDATA[Martin Bild]]></dc:creator><pubDate>Fri, 24 Jun 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Lizenz zum Löten]]></title><description><![CDATA[<div class="paragraph">
+<p>Abgerissene Stecker, kaputte Lichterketten, zerfallende Arduino-Projekte, Geräte mit Batteriefach statt Netzteil… Du
+solltest mal endlich löten lernen? Hier ist die Gelegenheit! Bring Deine defekten Geräte, die elektronischen Kuscheltiere, das batteriebetriebene Spielzeug, Deine Breadboard-Projekte, (gern auch defekte) Bauteile und Platinen mit, wir lernen löten!</p>
+</div>
+<div class="paragraph">
+<p>Am Sonntag, den 26. Juni 2016 von 12-15 Uhr im xhain Hack- und Makespace</p>
+</div>
+<div class="paragraph">
+<p>Um &lt;a href="mailto:x-hain@posteo.de"&gt;Anmeldung&lt;/a&gt; wird gebeten.</p>
+</div>
+<div class="paragraph">
+<p>Unkostenbeitrag 7.50, für SupportFlatrate-Abonnenten 5.- (für den Betrieb und Erhalt des xHains).
+Material kann bei Bedarf auch vor Ort erworben werden.</p>
+</div>]]></description><link>https://laydrop.github.io/2016/06/20/Lizenz-zum-Loten.html</link><guid isPermaLink="true">https://laydrop.github.io/2016/06/20/Lizenz-zum-Loten.html</guid><category><![CDATA[news]]></category><dc:creator><![CDATA[Martin Bild]]></dc:creator><pubDate>Mon, 20 Jun 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Civic hacking]]></title><description><![CDATA[<div class="paragraph">
+<p>Es geht darum, den ganzen Parlamentsbetrieb ordentlich aufzubereiten. Konkret geht es um 6000 Vorgänge aus der BVV Xhain (Anträge, Resolutionen, Anfragen etc). Diese liegen im Ratsinformationssystem ALLRIS vor [1]. Das ALLRIS ist aber nicht besonders toll. Ziel ist, die ganzen Sachen aufzubereiten, zu kategorisieren ("Bauausschuss", "SPD", "abgelehnt" etc), zu geotaggen und dann auf einer Karte erfassbar zu machen.</p>
+</div>
+<div class="paragraph">
+<p>Einen Dummy gibt es hier [2]</p>
+</div>
+<div class="paragraph">
+<p>Die 6000 Datensätze liegen in dreckigem XHTML vor und müssen in ein vernünftiges Format transformiert werden (XML oder JSON, optional RDF falls jemand möchte).</p>
+</div>
+<div class="paragraph">
+<p>Die Aufbereitung läuft derzeit durch Stringmatching. Machine Learning ist auch denkbar, aber wahrscheinlich nicht notwendig, da das relevante Vokabular ("Bauausschuss", "Sportausschuss", "Gesundheitsausschuss", &#8230;&#8203;) begrenzt und bekannt ist.</p>
+</div>
+<div class="paragraph">
+<p>Bei der Aufbereitung ist Python als Sprache ziemlich gesetzt. Bei Backend und Frontend ist noch alles möglich. Derzeit läuft alles über AJAX und statisches JSON, das auf github.io liegt.</p>
+</div>
+<div class="paragraph">
+<p>Alternative Projekte zu anderen Bezirken, Kommunen etc, sind gerne gesehen, ebenso alles, was mit Open Government Data zu tun hat.</p>
+</div>
+<div class="paragraph">
+<p>Das dies ein Projekt ist, das nicht an einem Abend fertig wird, findet es jetzt an jedem 2.Dienstag im Monat ab 20:30 Uhr statt.</p>
+</div>
+<div class="paragraph">
+<p>[1] <a href="http://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo040.asp" class="bare">http://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo040.asp</a></p>
+</div>
+<div class="paragraph">
+<p>[2] <a href="http://glottotopia.github.io/bvvscout/" class="bare">http://glottotopia.github.io/bvvscout/</a></p>
+</div>]]></description><link>https://laydrop.github.io/2016/06/13/Civic-hacking.html</link><guid isPermaLink="true">https://laydrop.github.io/2016/06/13/Civic-hacking.html</guid><category><![CDATA[news]]></category><dc:creator><![CDATA[Martin Bild]]></dc:creator><pubDate>Mon, 13 Jun 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Hello world!]]></title><description><![CDATA[<div class="paragraph">
+<p>Seit der Eröffnung am 13.05. sind schon ein paar Wochen vergangen und seitdem ist schon einiges passiert. In der Küche wurde eine Zwischendecke eingezogen, die ab sofort mehr Stauraum bietet. Mehr Platz gibt es auch zum Arbeiten. In echter Maker-Manier gibt es jetzt Tische, die man entweder zu einer großen Tafel zusammenstellen, als Einzeltische nutzen oder auch ganz wegräumen kann. Gerne dürft ihr noch helfen und euch mit eigenen Ideen und Projekten einbringen! Der Beamer und die Leinwand warten auch immer noch darauf, angebracht zu werden.</p>
+</div>
+<div class="paragraph">
+<p>Mittlerweile hat sich der Montag als der offene Hack- und Make-Abend herausgestellt. Normalerweise öffnet der xHain montags ab 17:00 Uhr die Tür und lädt zum geselligen Hacken und Machen ein.
+Donnerstags treffen sich weiterhin die Hackerinnen von [@heartsofcode][1]. Nachdem diese am 21.05. einen Lötworkshop veranstalteten, kam schnell der Wunsch auf, diesen erneut stattfinden zu lassen - dieses Mal nicht nur exklusiv den Hackerinnen vorbehalten. <em>Mitte Juni</em> wird die zweite Runde stattfinden - der genaue Termin wird demnächst bekanntgegeben.
+Ab dem 14.6. beginnen auch die inhaltlichen Abende. Den Anfang macht “CivicHacking”. 6000 Drucksachen aus der Bezirksverordnetenversammlung Friedrichshain - was kann man damit anstellen? Was ist erforderlich um aus dem Wust an Verwaltungsdokumenten die Entscheidungsfindung in der Bezirkspolitik zu visualisieren und sie allen Interessierten zur Verfügung zu stellen? Das dies ein Projekt ist, das nicht an einem Abend fertig wird, findet es jetzt an jedem 2.Dienstag im Monat statt.</p>
+</div>
+<div class="paragraph">
+<p>Alle Termine findet ihr auch unter „[anstehendes][2].“</p>
+</div>
+<div class="paragraph">
+<p>Weiterhin ist es ab heute auch möglich, den xHain mit der [Support-Flatrate][3] zu unterstützen. Gebt dem xHain ein paar Euros und helft so mit, dass er lange bestehen kann und weiterhin gedeiht!</p>
+</div>
+<div class="paragraph">
+<p>[1]:	<a href="https://twitter.com/heartsofcode" class="bare">https://twitter.com/heartsofcode</a>
+[2]:	<a href="https://xhain-hackspace.github.io/calendar.html" class="bare">https://xhain-hackspace.github.io/calendar.html</a>
+[3]:	<a href="https://xhain-hackspace.github.io/support.html" class="bare">https://xhain-hackspace.github.io/support.html</a></p>
+</div>]]></description><link>https://laydrop.github.io/2016/06/01/Hello-world.html</link><guid isPermaLink="true">https://laydrop.github.io/2016/06/01/Hello-world.html</guid><category><![CDATA[news]]></category><dc:creator><![CDATA[Martin Bild]]></dc:creator><pubDate>Wed, 01 Jun 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[hackspace statt Angst - Eröffnung am Freitag, den 13. Mai 2016]]></title><description><![CDATA[<div class="paragraph">
+<p>Am Freitag, den 13. Mai feiern wir die Eröffnung des xHains!
+Ab 18Uhr steht Euch die Tür offen.
+Kommt vorbei und schaut euch an was aus dem kahlen Raum geworden ist und kassiert einen Aufkleber ein.
+Musik und Getränke gibt es natürlich auch.</p>
+</div>
+<div class="paragraph">
+<p>**</p>
+</div>
+<div class="paragraph">
+<p>Um am Freitag die Eröffnung des xHains ordentlich feiern zu können, ist noch einiges zu tun.
+Schaut doch mal in’s Pad, vielleicht habt ihr ja Zeit und Lust ein wenig zu helfen:</p>
+</div>
+<div class="paragraph">
+<p><a href="http://pad.okfn.org/p/xHain">To-Do-Liste</a></p>
+</div>
+<div class="paragraph">
+<p>Wenn es Freiwillige gibt, bitte</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Fragezeichen durch Namen austauschen und danach</p>
+</li>
+<li>
+<p>kurze Mail an Felix (<a href="mailto:x-hain@posteo.de">x-hain@posteo.de</a>) oder per Twitter an @xHain_Hackspace.</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>Danke für eure Hilfe! &lt;3</p>
+</div>]]></description><link>https://laydrop.github.io/2016/04/18/hackspace-statt-Angst-Eroffnung-am-Freitag-den-13-Mai-2016.html</link><guid isPermaLink="true">https://laydrop.github.io/2016/04/18/hackspace-statt-Angst-Eroffnung-am-Freitag-den-13-Mai-2016.html</guid><category><![CDATA[news]]></category><dc:creator><![CDATA[Martin Bild]]></dc:creator><pubDate>Mon, 18 Apr 2016 00:00:00 GMT</pubDate></item></channel></rss>
